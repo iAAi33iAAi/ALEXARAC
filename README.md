@@ -1,101 +1,47 @@
 # ALEXARAC
 
-**Alpha Intelligence Galactic HQ** — Sovereign Platform Prototype
+**Alpha Intelligence Galactic HQ — concept and interface specification**
 
-Created by Alpha Intelligence. Bethel Acres, Oklahoma. Est. 2026. Built with Microsoft Copilot.
+The current repository is a design artifact, not a complete deployed web application.
 
-## What This Is
+## Current repository state
 
-ALEXARAC is a working prototype of a unified company dashboard for Alpha Intelligence. It demonstrates how multiple intellectual properties, community systems, and operational tools can live under one interface. All numerical data displayed is conceptual and for demonstration purposes only.
+The live repository currently contains README.md, BOM_MAP.md, LICENSE, and repository automation. It does not contain an index.html application, backend source tree, or deployed web runtime.
 
-## The Problem We Solve
+## Platform concept
 
-Housing is unaffordable. Energy is centralized. Currency systems exclude people. Construction is wasteful. Communities lack tools for self governance. Technology platforms are fragmented. Workers in dangerous trades lack robotic assistance. Most people cannot access digital platforms in their native language.
+ALEXARAC describes a unified Alpha Intelligence interface intended to bring multiple intellectual-property concepts and operational domains into one future dashboard.
 
-## 9 Intellectual Properties
+The project documentation describes 9 conceptual IP layers and 16 proposed interface areas. Those numbers describe the design specification, not 9 production subsystems or 16 implemented tabs in the current repository.
 
-### 1. EarthDome Construction System
+### Conceptual IP layers
 
-Problem: Conventional housing is expensive and inaccessible to billions. Solution: Modular dome housing based on CalEarth SuperAdobe by Nader Khalili. UNESCO recognized. Integrates solar, rainwater, and smart home systems.
+1. EarthDome Construction System
+2. LED Amphitheater System
+3. 369 Vortex Water Wheel Cascade
+4. DIGIMINT 1440 Currency Protocol
+5. GRAPALACLAWZ Robotics
+6. ALEXARAC DigiTwin
+7. KellCell Chambaroon Navigation
+8. Stellar Actuator UI
+9. ZUNCENTRAZ Governance
 
-### 2. LED Amphitheater System
+These are concept-level system descriptions. Numerical figures, performance claims, regulatory references, and economic parameters require separate engineering, regulatory, or empirical validation before being treated as production specifications.
 
-Problem: Community spaces are expensive and not immersive. Solution: Programmable LED arrays with spatial audio, scaling from home theater to full amphitheater.
+### Proposed interface areas
 
-### 3. 369 Vortex Water Wheel Cascade
+The design describes 16 areas including command, architecture, commerce, fleet, governance, Aethel Grid, OpenClaw, podcast, and writing functions.
 
-Problem: Off grid communities need clean energy. Solution: Triple cascade hydroelectric inspired by Tesla. Three wheels, six paddles, nine stages.
+They should currently be read as UI/product requirements and concepts, not as evidence of a functioning 16-tab application.
 
-### 4. DIGIMINT 1440 Currency Protocol
+## Technology direction
 
-Problem: No economic floor guarantees human dignity. Solution: ZUN currency with 369,000 hard cap. 1,440 ZUN monthly Dignity Floor per member. Gold backed.
+The documented UI direction references HTML5, CSS, JavaScript, Tailwind, Lucide Icons, and SVG-based graphics.
 
-### 5. GRAPALACLAWZ Robotics
+The current repository does not contain that application implementation. No backend or external-service integration is shipped here.
 
-Problem: Construction work is dangerous. Solution: Autonomous robotic fleet for construction, hauling, welding. Every human paired with a bot twin.
+## Status
 
-### 6. ALEXARAC DigiTwin
+**Design / concept stage in the current repository.**
 
-Problem: Complex systems overwhelm without guidance. Solution: Always present AI guide providing contextual help across the dashboard.
-
-### 7. KellCell Chambaroon Navigation
-
-Problem: Linear navigation breaks with many domains. Solution: Hexagonal spatial navigation with collaboration rooms.
-
-### 8. Stellar Actuator UI
-
-Problem: Generic buttons lack action weight. Solution: Star pulse animations with holographic hex cards. Open source.
-
-### 9. ZUNCENTRAZ Governance
-
-Problem: Communities lack transparent governance tools. Solution: Speaker queues, voting panels, meeting scheduling, transparent minutes. Open source.
-
-## 16 Tabs in the Webapp
-
-Command Center: Overview dashboard with activity feed, IP portfolio, METAMANNA Codex.
-
-Architecture: EarthDome and LED Amphitheater in three concept tiers each.
-
-Vortex Engine: 369 math visualization with animated vortex and Tesla references.
-
-Commerce: Payment interface, MINUMINT Forge, DIGIMINT 1440 Dignity Floor calculator.
-
-Fleet Command: Tesla Semi electric fleet roster with Megacharger concepts.
-
-Sovereign Array: 16 skill domains with Collaboration Chambaroons, speaker queues, Earth Restoration forums.
-
-GRAPALACLAWZ: Robotic fleet with maintenance schedules and diagnostics.
-
-CalEarth: SuperAdobe tribute with real ICC-ES and ASTM building code references.
-
-CodeSpace: Concept IDE with file tree, code editor, terminal, and deployment status.
-
-Ledger: Financial operations concept with transaction table and Scroll Cam Rolls.
-
-Water Flow: 369 Water Wheel BOM, specs, and animated cascade visualization.
-
-GOV: Real FAA, OSHA, ICC-ES, NEC, Oklahoma regulatory compliance references.
-
-Aethel Grid: Sensor network, water flow diagram, and power grid monitoring concepts.
-
-OpenClaw: Audit bots, counter-mirror twins, 12 LLM integrations.
-
-Podcast: 24 concept episodes with audio player mockup and subscriber stats.
-
-Writer: Rich text editor, concept articles, Substack integration, All Walks of Life filter.
-
-## Platform Features
-
-Universal Greeting Hall with 30 translated welcomes. 7,000 language selector across 16 families. 4 personality themes (Gold, Teal, Crimson, Violet). Personal Dashboard with ZUN balance. Collaboration Chambaroons with speaker queue. Company Sigils (6 SVG insignias).
-
-## Companion App: Sovereign Boardroom
-
-Separate internal app with Creator Dashboard, Employee Ledger, Commerce P and L, Board of Directors with voting, Bot Operations, and Video Meeting rooms.
-
-## Tech Stack
-
-HTML5, CSS3, Vanilla JavaScript, Tailwind CSS, Lucide Icons, Google Fonts. No external APIs. No backend. SVG only graphics.
-
----
-
-No matter how. No matter what. No matter why. No matter when. No matter where. There is a place here for all that live.
+The implementation, regulatory evidence, measured engineering performance, and conceptual product claims should remain separated so this README stays evidence-aligned.
