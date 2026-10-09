@@ -1,0 +1,26 @@
+name: ALEXARAC Concept Artifact CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  design-contract:
+    name: Verify concept and bill-of-materials contract
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run concept artifact contract tests
+        run: python -m unittest discover -s tests -v
